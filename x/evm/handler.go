@@ -50,3 +50,5 @@ func Recover(logger tmlog.Logger, err *error) {
 		}
 	}
 }
+
+type dummy int
